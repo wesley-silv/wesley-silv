@@ -1,7 +1,10 @@
-#  Olá, eu sou **Wesley Silva**
+#  Olá, eu sou *Wesley Silva*
 
-##  Desenvolvedor Front-end
+##  _Desenvolvedor Front-end_
 
 ### Cursando Ciência da Computação 3° - Universidade Anhembi Morumbi em São Paulo
-[Email](mailto:wesleysilvaconceicao@outlook.com)
+> Contatos
+- [Email](mailto:wesleysilvaconceicao@outlook.com) 
+- [Whatsapp](https://wa.me+5534992540828?text=Olá Wesley, estou entrando em contato com você para saber sobre o seu trabalho como Desenvolvedor.)
+
 
