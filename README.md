@@ -9,9 +9,11 @@
 
 
 > __Competências__
-- Atuando como desenvolvedor de aplicações web, na construção de interfaces gráficas e também com a implementação de novas funcionalidades em softwares.
-- Minhas melhores habilidades são com o uso das linguagens Html, Css, JavaScript, ReactJs e NodeJs.
-- 
+
+Atuando como desenvolvedor de aplicações web, na construção de interfaces gráficas e também com a implementação de novas funcionalidades em softwares.
+Minhas melhores habilidades são com o uso das linguagens Html, Css, JavaScript, ReactJs e NodeJs.
+
+
 
 
 
