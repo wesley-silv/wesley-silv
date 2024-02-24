@@ -4,7 +4,8 @@
 
 I'm coursing Graduation in Computer Science for the [UAM](https://portal.anhembi.br/ 'Go to Website'), with prevision to complete in year 2025.
 
-I like to program, write code and create new applications is very fantasctic, I believe in all that with programation we can to reach, and many more with the possibilities in become live of peoples best. Doing of the world a incrible place. 
+I like to program, write code and create new applications is very fantasctic, I believe in all that with programation we can to reach, and many more with the possibilities in become live of peoples best. Doing of the world a incrible place.
+<center> My days with programation! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" alt="Image not found" width="32">
 
 ## Contacts: 
 
