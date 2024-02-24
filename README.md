@@ -30,7 +30,7 @@ I like to program, write code and create new applications is very fantasctic, I 
 
 My projects comming soon...
 
-## Operations Systems: 
+## Operationals Systems: 
 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
