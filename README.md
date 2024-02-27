@@ -45,7 +45,7 @@ My projects comming soon...
 ![HEROKU](https://img.shields.io/badge/Heroku-3d06a5?logo=heroku&logoColor=fff&style=for-the-badge)
 ![POSTMAN](https://img.shields.io/badge/PostMan-E34F26?logo=postman&logoColor=fff&style=for-the-badge)
 
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![JIRA SOFTWARE](https://img.shields.io/badge/Jira_software-0052CC?style=for-the-badge&logo=JiraSoftware&logoColor=white)
 ![CONFLUENCE](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
 ![WORDPRESS](https://img.shields.io/badge/WordPress-21749B?style=for-the-badge&logo=WordPress&logoColor=white)
 
