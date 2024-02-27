@@ -18,14 +18,16 @@ I like to program, write code and create new applications is very fantasctic, I 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-ffff00?style=for-the-badge&logo=javascript&logoColor=black)
+![REACT](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
+![NODEJS](https://img.shields.io/badge/Node_Js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
+
+![EJS](https://img.shields.io/badge/Ejs-B4CA65?style=for-the-badge&logo=ejs&logoColor=000)
 ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-1572B6?style=for-the-badge&logo=typescript&logoColor=white)
-![NODEJS](https://img.shields.io/badge/Node.js-43853d?style=for-the-badge&logo=node.js&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-1572B6?style=for-the-badge&logo=Python&logoColor=white)
 
 ![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
 ![MONGODB](https://img.shields.io/badge/MongoDB-023430?logo=mongodb&logoColor=fff&style=for-the-badge)
-
 
 ## Projects:
 
@@ -42,6 +44,11 @@ My projects comming soon...
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![HEROKU](https://img.shields.io/badge/Heroku-3d06a5?logo=heroku&logoColor=fff&style=for-the-badge)
 ![POSTMAN](https://img.shields.io/badge/PostMan-E34F26?logo=postman&logoColor=fff&style=for-the-badge)
+
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![CONFLUENCE](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white)
+![WORDPRESS](https://img.shields.io/badge/WordPress-21749B?style=for-the-badge&logo=WordPress&logoColor=white)
+
 
 ## My activities: 
 
