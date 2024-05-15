@@ -54,7 +54,7 @@ My projects comming soon...
 
 ## My activities: 
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wesley-silv&theme=elegant&hide_border=true&background=252525)
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wesley-silv&theme=elegant&hide_border=true&background=1E538F)
 
 
 
