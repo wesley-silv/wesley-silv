@@ -17,6 +17,8 @@ I like to program, write code and create new applications is very fantasctic, I 
 
 ![Html5](https://img.icons8.com/?size=70&id=20909&format=png&color=000000)
 ![Css3](https://img.icons8.com/?size=70&id=21278&format=png&color=000000)
+![Bootstrap](https://img.icons8.com/?size=70&id=PndQWK6M1Hjo&format=png&color=000000)
+![Tailwind Css](https://img.icons8.com/?size=70&id=4PiNHtUJVbLs&format=png&color=000000)
 ![JavaScript](https://img.icons8.com/?size=70&id=108784&format=png&color=000000)
 ![TypeScript](https://img.icons8.com/?size=70&id=uJM6fQYqDaZK&format=png&color=000000)
 ![React.js](https://img.icons8.com/?size=70&id=bzf0DqjXFHIW&format=png&color=000000)
