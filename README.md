@@ -45,12 +45,12 @@ My projects comming soon...
 ## Softwares that I use: 
 
 ![Visual Studio Code](https://img.icons8.com/?size=60&id=9OGIyU8hrxW5&format=png&color=000000)
+![Postam](https://img.icons8.com/?size=60&id=IoYmHUxgvrFB&format=png&color=000000)
 ![Jira Software](https://img.icons8.com/?size=60&id=oROcPah5ues6&format=png&color=000000)
 ![Confluence](https://img.icons8.com/?size=60&id=h8EoAfgRDYLo&format=png&color=000000)
 ![Bitbucket](https://img.icons8.com/?size=60&id=x2g9nPCwQPOn&format=png&color=000000)
-![Postam](https://img.icons8.com/?size=60&id=IoYmHUxgvrFB&format=png&color=000000)
-![Heroku](https://img.icons8.com/?size=60&id=31085&format=png&color=000000)
 ![Wordpress](https://img.icons8.com/?size=60&id=13664&format=png&color=000000)
+![Heroku](https://img.icons8.com/?size=60&id=31085&format=png&color=000000)
 
 
 ## My activities: 
