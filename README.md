@@ -7,13 +7,13 @@ I'm coursing Graduation in Computer Science for the [UAM](https://portal.anhembi
 I like to program, write code and create new applications is very fantasctic, I believe in all that with programation we can to reach, and many more with the possibilities in become live of peoples best. Doing of the world a incrible place.
 <center> My days with programation! <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Earth.gif" alt="Image not found" width="32">
 
-## Contacts: 
+## Contacts 
 
 [![Gmail](https://img.shields.io/badge/-Gmail-ff0000?style=for-the-badge&labelColor=ff0000&logo=gmail&logoColor=white)](mailto:wesleysilv23@gmail.com 'Go to Gmail')
 [![Linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://linkedin.com/in/wesleysilv 'Go to LinkedIn')
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-25D366?style=for-the-badge&labelColor=25D366&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+5534992540828&text=Olá%20Wesley,%20estou%20entrando%20em%20contato%20com%20você%20para%20saber%20sobre%20o%20seu%20trabalho%20como%20Desenvolvedor 'Go to Whatsapp')
 
-## Technologys:
+## Technologys
 
 ![Html5](https://img.icons8.com/?size=70&id=20909&format=png&color=000000)
 ![Css3](https://img.icons8.com/?size=70&id=21278&format=png&color=000000)
@@ -34,17 +34,17 @@ I like to program, write code and create new applications is very fantasctic, I 
 ![MongoDb](https://img.icons8.com/?size=70&id=bosfpvRzNOG8&format=png&color=000000)
 ![Prisma](https://img.icons8.com/?size=70&id=aqb9SdV9P8oC&format=png&color=C0C0C0)
 
-## Projects:
+## Projects
 
 My projects comming soon...
 
-## Operationals Systems: 
+## Operationals Systems 
 
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![ANDROID](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![UBUNTO](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-## Softwares that I use: 
+## Softwares that I use 
 
 ![Visual Studio Code](https://img.icons8.com/?size=60&id=9OGIyU8hrxW5&format=png&color=000000)
 ![Postam](https://img.icons8.com/?size=60&id=IoYmHUxgvrFB&format=png&color=000000)
@@ -55,7 +55,7 @@ My projects comming soon...
 ![Heroku](https://img.icons8.com/?size=60&id=31085&format=png&color=000000)
 
 
-## My activities: 
+## My activities 
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=wesley-silv&theme=elegant&hide_border=true&background=1E538F)
 
