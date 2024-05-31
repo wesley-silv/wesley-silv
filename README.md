@@ -26,6 +26,7 @@ I like to program, write code and create new applications is very fantasctic, I 
 ![Git](https://img.icons8.com/?size=70&id=8verEw3iUvx0&format=png&color=000000)
 ![GitHub](https://img.icons8.com/?size=70&id=3tC9EQumUAuq&format=png&color=FF0000)
 ![Node.js](https://img.icons8.com/?size=70&id=hsPbhkOH4FMe&format=png&color=000000)
+![Npm](https://img.icons8.com/?size=70&id=24895&format=png&color=000000)
 ![Express.js](https://img.icons8.com/?size=70&id=kg46nzoJrmTR&format=png&color=C0C0C0)
 ![Ejs](https://img.icons8.com/?size=70&id=Pxe6MGswB8pX&format=png&color=000000)
 ![Vite](https://img.icons8.com/?size=70&id=dJjTWMogzFzg&format=png&color=000000)
