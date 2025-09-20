@@ -1,19 +1,14 @@
-Absolutely! Your current template is already **strong, clean, and professional** — but to make it **TRULY FANTASTIC, unforgettable, and jaw-dropping**, we need to inject **personality, interactivity, storytelling, and visual dynamism**.
+# Hello! I'm Wesley da Silva Conceição 
 
-Here’s your **ULTRA-UPGRADED, NEXT-LEVEL GITHUB PROFILE TEMPLATE** — designed to **WOW recruiters, collaborators, and fellow devs** the moment they land on your profile.
 
----
+> “I don’t just build websites I build experiences that make users to stay impresioned.
 
-# 🌟 WESLEY SILVA — Where Code Meets Creativity
-
-> _“I don’t just build websites — I build experiences that make users say ‘WOW’.”_
-
-📍 **São Paulo, Brazil** | 🎓 **B.Sc. Computer Science @ [Universidade Anhembi Morumbi](https://portal.anhembi.br/)** — Class of 2025  
-⚡ **Frontend Alchemist** | 🎨 UI/UX Obsessed | 🚀 Full-Stack Explorer
+📍 **Minas Gerais, Brazil** | 🎓 **B.Sc. Computer Science @ [Universidade Anhembi Morumbi](https://portal.anhembi.br/)** — Class of 2025  
+⚡ **Frontend Lover** | 🎨 UI/UX Obsessed | 🚀 Full-Stack Explorer
 
 ---
 
-## 📬 Let’s Build Something Amazing — Together!
+## 📬 Let’s Build Something Amazing Together!
 
 <div align="left">
   <a href="mailto:wesleysilv23@gmail.com" target="_blank">
@@ -29,14 +24,6 @@ Here’s your **ULTRA-UPGRADED, NEXT-LEVEL GITHUB PROFILE TEMPLATE** — designe
     <img src="https://custom-icon-badges.demolab.com/badge/-Book%20a%20Call!-00C853?style=for-the-badge&logo=google-calendar&logoColor=white&labelColor=00C853" alt="Schedule a Call"/>
   </a>
 </div>
-
----
-
-## 🎬 Welcome Video (Optional — But Game-Changing!)
-
-> 🎥 _[Click here to watch my 60-second intro video!](https://youtube.com/shorts/your-video-id)_ — (Host a fun Loom/YouTube Short introducing yourself!)
-
-*(Tip: Record a 60s vertical video saying “Hi, I’m Wesley — here’s what I’m building right now!” — upload to YouTube Shorts or Loom, and link it here. This makes you MEMORABLE.)*
 
 ---
 
@@ -175,33 +162,3 @@ Here’s your **ULTRA-UPGRADED, NEXT-LEVEL GITHUB PROFILE TEMPLATE** — designe
 
 ✅ **Profile last updated**: May 2025  
 🎨 **Crafted with ❤️ using [Shields.io](https://shields.io/), [Skillicons](https://skillicons.dev/), and pure passion**
-
----
-
-## 🔥 BONUS: What Makes This Template FANTASTIC?
-
-1. **Personality Injection** — Fun facts, philosophy, humor. You’re not a robot.
-2. **Visual Hierarchy** — Icons, badges, dividers — guides the eye beautifully.
-3. **Interactive Elements** — “Book a Call”, “Watch Video” — invites engagement.
-4. **Storytelling** — Your journey, goals, philosophy — creates emotional connection.
-5. **Dynamic Stats** — Live GitHub data — shows you’re active and growing.
-6. **Mobile-Optimized** — Looks stunning on phones, tablets, and desktops.
-7. **Call-to-Actions** — Every section invites the visitor to DO something (click, connect, explore).
-8. **Future-Proof** — Easy to update projects, stats, or goals.
-
----
-
-### 🚀 Pro Move: Add These Later!
-
-- **GitHub Readme Typing SVG** — Animated “I’m currently working on...” banner.
-- **Spotify Playing Now** — Show what you’re listening to while coding.
-- **Visitor Counter** — “You are visitor #XXXX” — adds social proof.
-- **GitHub Calendar Heatmap** — Visual commit history.
-
----
-
-This isn’t just a profile — **it’s your personal brand, your digital handshake, your 24/7 resume**.
-
-**Go make it live. Go make them remember you. 🚀**
-
-Let me know if you want help implementing any of the bonus features — I’ll send you the exact code snippets!
