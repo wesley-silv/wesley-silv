@@ -3,7 +3,7 @@
 
 > “I don’t just build websites I build experiences that make users to stay impresioned."
 
-📍 **Minas Gerais, Brazil** | 🎓 **B.Sc. Computer Science @ [Universidade Anhembi Morumbi](https://portal.anhembi.br/)** — Class of 2025  
+📍 **Minas Gerais, Brazil** | 🎓 **B.Sc. Computer Science @ [UAM](https://portal.anhembi.br/)** — Class of 2025  
 ⚡ **Frontend Creator** | 🎨 UI/UX Obsessed | 🚀 Full-Stack Explorer
 
 ---
