@@ -1,276 +1,1052 @@
-# I'm Wesley Da Silva Conceição 
+# 👨‍💻 Wesley Conceição
 
-"I don't just write code I automate security, analyze data, and engineer solutions that protect systems, optimize operations, and create measurable business value."
+### Software Engineering · Automation · Infrastructure · Cybersecurity
 
-📍 Minas Gerais, Brazil
-🎓 Bachelor of Computer Science | Universidade Anhembi Morumbi (UAM)
-🐍 Python Developer • 🔐 Cybersecurity • 🗄️ SQL Server • ☁️ Cloud & Infrastructure • ⚙️ Automation Engineer
+> **Building reliable systems, automating repetitive work, documenting knowledge, and continuously improving technical solutions.**
 
-<img width="1983" height="793" alt="GitHub Banner Profile_v2" src="https://github.com/user-attachments/assets/2be36364-448d-4995-90c3-e6a0f32dfcfc" />
-
----
-
-## 🛡️ Let's Build Secure, Intelligent Solutions Together!
-
-I'm always open to collaborating on projects related to **Cybersecurity**, **Python Automation**, **Cloud Infrastructure**, **SQL Server**, **DevSecOps**, and **IT Operations**.
-
-<div align="left">
-  <a href="mailto:wesleysilv23@gmail.com" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/wesleysilv/" target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-  </a>
-  <a href="https://api.whatsapp.com/send?phone=+5534992540828&text=Hello%20Wesley!%20I%20found%20your%20GitHub%20profile." target="_blank">
-    <img src="https://custom-icon-badges.demolab.com/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="WhatsApp"/>
-  </a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)](https://www.linux.org/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)](https://www.docker.com/)
+[![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square\&logo=microsoftsqlserver\&logoColor=white)](https://www.microsoft.com/sql-server)
+[![Cybersecurity](https://img.shields.io/badge/Cybersecurity-000000?style=flat-square\&logo=hackthebox\&logoColor=white)](#)
 
 ---
 
-# ⚡ Enterprise Technology Stack
+# 🎯 Mission
 
-## 🐍 Programming & Automation
+My goal is to transform technical knowledge into **reliable, automated, secure and maintainable systems**.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,git,github,vscode" />
-</div>
+I use GitHub not only to store source code, but as an **engineering laboratory** where I design, implement, test, document and continuously improve technical solutions.
 
----
-
-## 🛡️ Cybersecurity & DevSecOps
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,linux" />
-</div>
-
-**Currently learning**
-
-- Security Automation
-- Threat Hunting
-- SIEM & SOAR
-- Incident Response
-- OWASP
-- Network Security
-- Active Directory Security
-- Microsoft Defender
-- Microsoft Sentinel
+```text
+Problem
+   ↓
+Research
+   ↓
+Architecture
+   ↓
+Implementation
+   ↓
+Testing
+   ↓
+Validation
+   ↓
+Documentation
+   ↓
+Deployment
+   ↓
+Continuous Improvement
+```
 
 ---
 
-## ☁️ Cloud & Infrastructure
+# 👋 About Me
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,kubernetes,linux,windows" />
-</div>
+I am a **Computer Science graduate** focused on building practical expertise across:
 
-**Working with**
+* Software Engineering
+* Automation
+* Infrastructure
+* Networking
+* Systems Administration
+* Databases
+* Cloud Computing
+* Cybersecurity
+* DevSecOps
+* Technical Documentation
 
-- Windows Server
-- Active Directory
-- VMware
-- Docker
-- Kubernetes
-- Azure
-- AWS
+My approach combines **software development, infrastructure and security** to understand systems from end to end.
 
----
-
-## 🗄️ Databases & Data Analytics
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</div>
-
-**Specializing in**
-
-- Microsoft SQL Server
-- SQL
-- Database Design
-- Backup & Recovery
-- Performance Analysis
-- Data Modeling
-- ETL Concepts
+```text
+                    ENGINEERING
+                         │
+        ┌────────────────┼────────────────┐
+        │                │                │
+     Software       Infrastructure     Security
+        │                │                │
+        ├── Python       ├── Linux       ├── Blue Team
+        ├── APIs         ├── Windows     ├── Red Team
+        ├── Automation   ├── Docker      ├── Pentesting
+        ├── Databases    ├── Networking  ├── Hardening
+        └── Testing      └── Cloud       └── Monitoring
+```
 
 ---
 
-## 📊 Data Analysis & Reporting
+# 🧠 Engineering Philosophy
 
-<div align="left">
+I believe good engineering is not only about making software work.
 
-🐼 Pandas • 📈 Matplotlib • 📑 Excel • 📋 Power BI *(Learning)*
+It is about understanding **why**, documenting **how**, measuring **what happens**, and continuously improving **what was built**.
 
-</div>
+```text
+Automate repetitive work.
 
-Focused on:
+Document important decisions.
 
-- Log Analysis
-- Security Reports
-- Incident Dashboards
-- KPI Monitoring
-- Operational Analytics
+Design for maintainability.
 
----
+Measure before optimizing.
 
-## 🚀 Currently Building
+Security by default.
 
-✔ Python Security Automation
+Test before trusting.
 
-✔ SQL Server Labs
+Prefer simplicity over unnecessary complexity.
 
-✔ Windows Server Infrastructure
+Learn by building.
 
-✔ Kubernetes Security Labs
+Share knowledge.
 
-✔ Active Directory Environment
-
-✔ Cloud Security Projects (Azure & AWS)
-
-✔ Enterprise Automation Scripts
-
-✔ GitHub Technical Documentation
-
-✔ Cybersecurity Portfolio Projects
+Improve continuously.
+```
 
 ---
 
-> **"Automating processes. Securing infrastructure. Analyzing data. Delivering solutions that create real business value."**
----
+# ⚙️ Engineering Principles
 
-## ⚙️ Enterprise Toolkit
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=python,vscode,git,github,docker,kubernetes,linux,windows,azure,aws,postman,jira,confluence" />
-</div>
-
-### 🛠️ Daily Technologies
-
-- 🐍 Python Automation
-- 🛡️ Cybersecurity & Threat Analysis
-- 🗄️ Microsoft SQL Server
-- ☁️ Azure & AWS
-- 🐳 Docker & Kubernetes
-- 🖥️ Windows Server & Linux
-- 🌐 REST APIs
-- 🔍 Log Analysis & Monitoring
-- 📚 Technical Documentation
-- ⚡ IT Infrastructure Automation
+| Principle                  | How I apply it                           |
+| -------------------------- | ---------------------------------------- |
+| **Clean Code**             | Readability, naming and maintainability  |
+| **SOLID**                  | Decoupled and extensible designs         |
+| **DRY**                    | Avoid unnecessary duplication            |
+| **KISS**                   | Prefer simple solutions when appropriate |
+| **Separation of Concerns** | Clear system responsibilities            |
+| **Automation First**       | Automate repetitive processes            |
+| **Security by Design**     | Security considered from the beginning   |
+| **Documentation First**    | Important decisions are documented       |
+| **Testing**                | Validate behavior before deployment      |
+| **Observability**          | Logs, metrics and diagnostic information |
+| **Infrastructure as Code** | Reproducible environments                |
+| **Continuous Improvement** | Review, measure and refine               |
 
 ---
 
-# 📊 GitHub Activity
+# 🧩 Engineering Areas
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wesley-silv&show_icons=true&theme=react&border_radius=15&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wesley-silv&layout=compact&theme=react&border_radius=15&langs_count=8)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=wesley-silv&theme=react&border_radius=15)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=wesley-silv&theme=algolia&no-frame=true&margin-w=15&row=1&column=7)
-
-</div>
-
----
-
-# 🚀 Professional Journey
-
-### 2025–2026
-
-✔ Bachelor's Degree in Computer Science
-
-✔ Technical Support Analyst
-
-✔ SQL Server Laboratory
-
-✔ Windows Server Infrastructure
-
-✔ VMware Enterprise Lab
-
-✔ Python Automation Projects
-
-✔ GitHub Technical Documentation
-
-✔ Cybersecurity Portfolio
-
----
-
-# 🎯 Current Learning Roadmap
-
-### 🛡️ Cybersecurity
-
-- Threat Hunting
-- Blue Team Operations
-- Incident Response
-- Digital Forensics
-- SIEM & SOAR
-- Active Directory Security
-- Microsoft Defender
-- Microsoft Sentinel
-
-### 🐍 Python
-
-- Security Automation
-- API Integration
-- Log Analysis
-- Network Automation
-- Infrastructure Automation
-- Data Analysis
-- Enterprise Scripts
-
-### ☁️ Cloud & DevOps
-
-- Microsoft Azure
-- Amazon Web Services (AWS)
-- Docker
-- Kubernetes
-- GitHub Actions
-- CI/CD
-- Infrastructure as Code
-
-### 🗄️ Databases
-
-- Microsoft SQL Server
-- Database Administration
-- Performance Tuning
-- Backup & Recovery
-- Security & Permissions
-- Data Modeling
+```text
+Software Engineering
+        │
+        ├── Python
+        ├── APIs
+        ├── Automation
+        ├── Data Processing
+        └── Testing
+        │
+        ▼
+Infrastructure
+        │
+        ├── Linux
+        ├── Windows Server
+        ├── Networking
+        ├── Virtualization
+        ├── Docker
+        └── Cloud
+        │
+        ▼
+Cybersecurity
+        │
+        ├── Network Security
+        ├── Hardening
+        ├── Monitoring
+        ├── Pentesting
+        ├── Blue Team
+        └── Red Team
+        │
+        ▼
+DevSecOps
+        │
+        ├── CI/CD
+        ├── Containers
+        ├── Security Automation
+        └── Infrastructure Automation
+```
 
 ---
 
-# 💡 Professional Mission
+# 🚀 Featured Projects
 
-> **Design secure, scalable, and automated technology solutions that improve operational efficiency, strengthen cybersecurity, and create measurable business value through Python, Cloud Computing, SQL Server, and Enterprise Infrastructure.**
+> **Show, don't tell.**
+
+The projects below represent the type of engineering work I use to validate technical knowledge through implementation.
+
+### 🐍 Python System Information Collector
+
+**Focus:** Automation · Python · Systems Administration
+
+A Python-based system information and inventory collector designed to gather relevant operating-system and hardware information.
+
+**Engineering concepts**
+
+* Python
+* System information
+* Automation
+* Structured data
+* Error handling
+* Logging
+* Documentation
+
+**Evidence**
+
+* 📁 Source code → `[/repository](#)`
+* 📐 Architecture → `[/docs/architecture](#)`
+* 🧪 Tests → `[/tests](#)`
+* 📖 Documentation → `[/docs](#)`
 
 ---
 
-# 🌍 Open to Collaborate
+### 🔐 Security Automation
 
-I enjoy collaborating on projects involving:
+**Focus:** Cybersecurity · Python · Automation
 
-- 🐍 Python Development
-- 🔐 Cybersecurity
-- ⚙️ Infrastructure Automation
-- ☁️ Cloud Computing
-- 🗄️ SQL Server
-- 📊 Data Analysis
-- 🚀 DevSecOps
-- 🖥️ Windows Server
-- 🐧 Linux Administration
-- 📚 Technical Documentation
+Automation experiments focused on security analysis, system validation and repetitive security operations.
+
+**Engineering concepts**
+
+* Security automation
+* Network analysis
+* System validation
+* Logging
+* Defensive automation
+* Security by design
+
+**Evidence**
+
+* 📁 Source code → `[/repository](#)`
+* 📖 Documentation → `[/docs](#)`
+* 🧪 Lab results → `[/lab](#)`
 
 ---
 
-> **"Automation accelerates productivity. Security builds trust. Data drives decisions. Together, they create resilient organizations."**
+### 🗄️ SQL Server Lab
 
-<br>
+**Focus:** Database Engineering · Administration · Performance
 
-### 👨‍💻 Thanks for visiting my profile!
+Practical laboratory covering database administration, queries, backup strategies, troubleshooting and performance analysis.
 
-⭐ Always learning  
-⭐ Always building  
-⭐ Always improving
+**Engineering concepts**
 
-**Profile updated:** July 2026
+* SQL
+* Database design
+* Query optimization
+* Backup and recovery
+* Administration
+* Monitoring
+
+**Evidence**
+
+* 📁 Repository → `[/repository](#)`
+* 📊 Performance tests → `[/benchmarks](#)`
+* 📖 Documentation → `[/docs](#)`
+
+---
+
+### 🖥️ Windows Server Lab
+
+**Focus:** Infrastructure · Systems Administration
+
+Enterprise-style laboratory for studying Windows Server infrastructure and administration.
+
+**Topics**
+
+* Active Directory
+* DNS
+* DHCP
+* Group Policy
+* User management
+* File services
+* Authentication
+* Windows administration
+
+**Evidence**
+
+* 📁 Repository → `[/repository](#)`
+* 🏗️ Architecture → `[/architecture](#)`
+* 📖 Documentation → `[/docs](#)`
+
+---
+
+### 🐳 Docker Lab
+
+**Focus:** Containers · DevOps · Infrastructure
+
+Practical experiments involving containerized applications and reproducible development environments.
+
+**Topics**
+
+* Docker
+* Docker Compose
+* Container networking
+* Volumes
+* Environment variables
+* Service isolation
+* Container security
+
+**Evidence**
+
+* 📁 Repository → `[/repository](#)`
+* 🏗️ Architecture → `[/architecture](#)`
+* 📖 Documentation → `[/docs](#)`
+
+---
+
+### ☸️ Kubernetes Lab
+
+**Focus:** Containers · Orchestration · Cloud
+
+Laboratory focused on container orchestration and understanding distributed application environments.
+
+**Topics**
+
+* Pods
+* Deployments
+* Services
+* ConfigMaps
+* Secrets
+* Networking
+* Scaling
+* Monitoring
+
+**Evidence**
+
+* 📁 Repository → `[/repository](#)`
+* 🏗️ Architecture → `[/architecture](#)`
+* 📖 Documentation → `[/docs](#)`
+
+---
+
+### 🛡️ Red Team Lab
+
+**Focus:** Cybersecurity · Network Security · Offensive Security
+
+Controlled laboratory environment for studying offensive security techniques and understanding attack surfaces.
+
+**Topics**
+
+* Reconnaissance
+* Network enumeration
+* Vulnerability analysis
+* Web security
+* Authentication
+* Exploitation concepts
+* Post-exploitation concepts
+* Reporting
+
+> All activities are performed in controlled environments for educational and defensive purposes.
+
+**Evidence**
+
+* 📁 Repository → `[/repository](#)`
+* 🧪 Lab → `[/lab](#)`
+* 📖 Reports → `[/reports](#)`
+
+---
+
+# 🏢 Enterprise Labs
+
+The Enterprise Labs section is designed to reproduce real-world infrastructure scenarios in controlled environments.
+
+```text
+Enterprise Lab
+│
+├── Windows Server
+│   ├── Active Directory
+│   ├── DNS
+│   ├── DHCP
+│   ├── GPO
+│   └── File Services
+│
+├── Linux
+│   ├── System Administration
+│   ├── Networking
+│   ├── Services
+│   └── Automation
+│
+├── Networking
+│   ├── TCP/IP
+│   ├── VLAN
+│   ├── Routing
+│   ├── Switching
+│   └── Traffic Analysis
+│
+├── Databases
+│   ├── SQL Server
+│   ├── Query Optimization
+│   ├── Backup
+│   └── Monitoring
+│
+├── Containers
+│   ├── Docker
+│   ├── Docker Compose
+│   └── Kubernetes
+│
+├── Cloud
+│   ├── Azure
+│   └── AWS
+│
+└── Cybersecurity
+    ├── Kali Linux
+    ├── Nmap
+    ├── Wireshark
+    ├── Burp Suite
+    ├── Metasploit
+    ├── Hardening
+    └── Security Monitoring
+```
+
+Each laboratory should evolve into its own documented engineering project.
+
+---
+
+# 🧪 Lab Methodology
+
+I use laboratories to transform theoretical knowledge into reproducible practical experience.
+
+```text
+Research
+   ↓
+Build Environment
+   ↓
+Implement
+   ↓
+Break
+   ↓
+Troubleshoot
+   ↓
+Validate
+   ↓
+Document
+   ↓
+Automate
+   ↓
+Improve
+```
+
+A laboratory is considered useful when another person can reproduce the experiment from the documentation.
+
+---
+
+# 📚 Knowledge Base
+
+Technical knowledge is organized as reusable documentation rather than isolated notes.
+
+```text
+knowledge-base/
+│
+├── software-engineering/
+│   ├── clean-code
+│   ├── solid
+│   ├── design-patterns
+│   ├── testing
+│   └── architecture
+│
+├── python/
+│   ├── fundamentals
+│   ├── automation
+│   ├── data-processing
+│   ├── APIs
+│   └── testing
+│
+├── databases/
+│   └── sql-server
+│
+├── windows-server/
+│   ├── active-directory
+│   ├── dns
+│   ├── dhcp
+│   └── gpo
+│
+├── linux/
+│   ├── administration
+│   ├── networking
+│   └── automation
+│
+├── networking/
+│   ├── tcp-ip
+│   ├── routing
+│   ├── switching
+│   ├── vlan
+│   └── troubleshooting
+│
+├── cybersecurity/
+│   ├── fundamentals
+│   ├── cryptography
+│   ├── network-security
+│   ├── web-security
+│   ├── blue-team
+│   └── red-team
+│
+├── devsecops/
+│
+└── cloud/
+    ├── azure
+    └── aws
+```
+
+---
+
+# 🧠 Learning Framework
+
+I use a practical learning cycle:
+
+```text
+              ┌──────────────┐
+              │    LEARN     │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │    BUILD     │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │    TEST      │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │   VALIDATE   │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │  DOCUMENT    │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │   PUBLISH    │
+              └──────┬───────┘
+                     ↓
+              ┌──────────────┐
+              │    TEACH     │
+              └──────┬───────┘
+                     │
+                     └──────────→ IMPROVE
+```
+
+---
+
+# 🔄 Project Lifecycle
+
+Every significant project should follow a structured lifecycle.
+
+```text
+01. Problem Definition
+        ↓
+02. Requirements
+        ↓
+03. Research
+        ↓
+04. Architecture
+        ↓
+05. Implementation
+        ↓
+06. Testing
+        ↓
+07. Security Review
+        ↓
+08. Validation
+        ↓
+09. Documentation
+        ↓
+10. Deployment
+        ↓
+11. Monitoring
+        ↓
+12. Maintenance
+```
+
+---
+
+# 🏗️ Architecture Mindset
+
+Projects should communicate not only **what technology was used**, but **why it was used**.
+
+Example architecture:
+
+```text
+                    ┌─────────────┐
+                    │    User     │
+                    └──────┬──────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │   REST API  │
+                    └──────┬──────┘
+                           │
+              ┌────────────┴────────────┐
+              │                         │
+              ▼                         ▼
+       ┌─────────────┐          ┌─────────────┐
+       │   Python    │          │   Docker    │
+       │  Automation │          │ Environment │
+       └──────┬──────┘          └─────────────┘
+              │
+              ▼
+       ┌─────────────┐
+       │ SQL Server  │
+       └──────┬──────┘
+              │
+              ▼
+       ┌─────────────┐
+       │ Monitoring  │
+       └─────────────┘
+```
+
+For each architecture, documentation should explain:
+
+* Why each component exists
+* Why a technology was selected
+* How components communicate
+* Security considerations
+* Failure scenarios
+* Scalability considerations
+* Operational considerations
+
+---
+
+# 🔐 Security Mindset
+
+Security is treated as part of engineering rather than an isolated final step.
+
+```text
+Threat Modeling
+       ↓
+Attack Surface
+       ↓
+Secure Design
+       ↓
+Hardening
+       ↓
+Monitoring
+       ↓
+Detection
+       ↓
+Incident Response
+       ↓
+Lessons Learned
+       ↓
+Continuous Improvement
+```
+
+Core areas:
+
+* Authentication
+* Authorization
+* Cryptography
+* Network Security
+* Secure Coding
+* Vulnerability Management
+* System Hardening
+* Logging
+* Monitoring
+* Incident Response
+* Security Automation
+
+---
+
+# 📈 Technical Roadmap
+
+> Progress indicators represent personal learning status, not objective measures of professional proficiency.
+
+| Area                   | Current Focus    |
+| ---------------------- | ---------------- |
+| Software Engineering   | ████████████████ |
+| Python                 | ███████████████  |
+| Networking             | ██████████████   |
+| Systems Administration | █████████████    |
+| SQL / Databases        | ████████████     |
+| Linux                  | ███████████      |
+| Windows Server         | ███████████      |
+| Docker                 | █████████        |
+| Cloud                  | ████████         |
+| DevSecOps              | ███████          |
+| Cybersecurity          | █████████        |
+| Red Team               | ██████           |
+| Kubernetes             | ██████           |
+
+---
+
+# 🛠️ Technology Stack
+
+### Programming & Automation
+
+```text
+Python
+PowerShell
+Bash
+SQL
+```
+
+### Software Engineering
+
+```text
+Git
+GitHub
+REST APIs
+Testing
+Design Patterns
+Clean Code
+SOLID
+```
+
+### Infrastructure
+
+```text
+Linux
+Windows Server
+Virtualization
+Docker
+Kubernetes
+Networking
+```
+
+### Databases
+
+```text
+SQL Server
+Relational Databases
+SQL
+Backup & Recovery
+Performance Analysis
+```
+
+### Cloud
+
+```text
+Microsoft Azure
+AWS
+Cloud Infrastructure
+Cloud Security
+```
+
+### Cybersecurity
+
+```text
+Network Security
+Cryptography
+Web Security
+Security Monitoring
+Hardening
+Pentesting
+Red Team
+Blue Team
+```
+
+### Tools
+
+```text
+Wireshark
+Nmap
+Burp Suite
+Metasploit
+Git
+Docker
+VS Code
+Draw.io
+```
+
+---
+
+# 📊 Engineering Evidence
+
+A technology listed on this profile should ideally have at least one associated form of evidence.
+
+```text
+Technology
+    │
+    ├── Project
+    │
+    ├── Laboratory
+    │
+    ├── Documentation
+    │
+    ├── Tests
+    │
+    ├── Architecture
+    │
+    └── Technical Article
+```
+
+Examples:
+
+| Technology     | Evidence                      |
+| -------------- | ----------------------------- |
+| Python         | Automation project            |
+| SQL Server     | Database laboratory           |
+| Docker         | Containerized application     |
+| Kubernetes     | Orchestration laboratory      |
+| Linux          | Infrastructure laboratory     |
+| Windows Server | Enterprise laboratory         |
+| Networking     | Network troubleshooting lab   |
+| Cybersecurity  | Security laboratory           |
+| Git            | Project history               |
+| Cloud          | Cloud architecture laboratory |
+
+---
+
+# 📖 Documentation Standard
+
+Projects should preferably contain:
+
+```text
+README.md
+│
+├── Problem
+├── Objective
+├── Architecture
+├── Technologies
+├── Requirements
+├── Installation
+├── Configuration
+├── Usage
+├── Testing
+├── Security
+├── Troubleshooting
+├── Performance
+├── Limitations
+├── Roadmap
+└── License
+```
+
+The goal is simple:
+
+> **Another engineer should be able to understand and reproduce the project without asking me how it works.**
+
+---
+
+# 🔬 Engineering Decision Records
+
+Important architectural decisions should be documented.
+
+Example:
+
+```text
+Decision
+    ↓
+Context
+    ↓
+Options
+    ↓
+Trade-offs
+    ↓
+Decision
+    ↓
+Consequences
+```
+
+Recommended format:
+
+```text
+ADR-001 — Database Selection
+
+Context:
+Why is a database required?
+
+Options:
+SQL Server
+PostgreSQL
+SQLite
+
+Trade-offs:
+Performance
+Administration
+Portability
+Complexity
+
+Decision:
+[Document the selected approach]
+
+Consequences:
+[Document positive and negative consequences]
+```
+
+---
+
+# 📦 Repository Organization
+
+The portfolio is progressively organized around engineering domains.
+
+```text
+github/
+│
+├── projects/
+│   ├── python-system-information-collector
+│   ├── security-automation
+│   ├── sql-server-lab
+│   ├── windows-server-lab
+│   ├── docker-lab
+│   ├── kubernetes-lab
+│   ├── red-team-lab
+│   └── active-directory-lab
+│
+├── knowledge-base/
+│   ├── software-engineering
+│   ├── python
+│   ├── databases
+│   ├── windows-server
+│   ├── linux
+│   ├── networking
+│   ├── cybersecurity
+│   ├── devsecops
+│   └── cloud
+│
+├── roadmaps/
+│   ├── software-engineering.md
+│   ├── infrastructure.md
+│   ├── cybersecurity.md
+│   └── cloud.md
+│
+└── assets/
+    ├── diagrams
+    ├── architecture
+    ├── banners
+    └── documentation
+```
+
+---
+
+# 🗺️ Engineering Roadmaps
+
+### Software Engineering
+
+```text
+Programming
+    ↓
+Data Structures
+    ↓
+Algorithms
+    ↓
+Clean Code
+    ↓
+SOLID
+    ↓
+Design Patterns
+    ↓
+Architecture
+    ↓
+Testing
+    ↓
+Distributed Systems
+```
+
+### Infrastructure
+
+```text
+Networking
+    ↓
+Linux
+    ↓
+Windows Server
+    ↓
+Virtualization
+    ↓
+Containers
+    ↓
+Cloud
+    ↓
+Infrastructure as Code
+    ↓
+Observability
+```
+
+### Cybersecurity
+
+```text
+Networking
+    ↓
+Operating Systems
+    ↓
+Security Fundamentals
+    ↓
+Cryptography
+    ↓
+Web Security
+    ↓
+Defensive Security
+    ↓
+Offensive Security
+    ↓
+Security Automation
+    ↓
+DevSecOps
+```
+
+---
+
+# 📌 Current Focus
+
+My current development focus is centered around the intersection of:
+
+```text
+Software Engineering
+        +
+Infrastructure
+        +
+Automation
+        +
+Cybersecurity
+```
+
+The objective is to progressively build systems that are:
+
+**Reliable · Secure · Automated · Observable · Documented · Maintainable**
+
+---
+
+# 📚 Knowledge Sharing
+
+Technical learning becomes more valuable when it can be shared.
+
+I use documentation, diagrams, laboratories and repositories to transform individual learning into reusable technical knowledge.
+
+```text
+Learn
+  ↓
+Implement
+  ↓
+Validate
+  ↓
+Document
+  ↓
+Share
+  ↓
+Receive Feedback
+  ↓
+Improve
+```
+
+---
+
+# 📫 Contact
+
+If you are interested in discussing:
+
+* Software Engineering
+* Automation
+* Infrastructure
+* Networking
+* Cybersecurity
+* DevSecOps
+* Technical documentation
+* Engineering projects
+
+Feel free to connect.
+
+**GitHub:** [github.com/SEU-USUARIO](https://github.com/SEU-USUARIO)
+
+**LinkedIn:** [linkedin.com/in/SEU-PERFIL](https://linkedin.com/in/SEU-PERFIL)
+
+**Email:** `seu-email@example.com`
+
+---
+
+# ⭐ Portfolio Principle
+
+> **Don't just tell people what you know. Build something, measure it, document it, and let the evidence speak.**
+
+---
+
+<p align="center">
+
+**Engineering through Practice · Automation · Security · Continuous Learning**
+
+</p>
